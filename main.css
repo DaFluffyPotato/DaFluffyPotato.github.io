@@ -26,7 +26,8 @@ p {
     margin: 0px;
     color: #494949;
     text-align: center;
-    margin: 6px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h2 {
@@ -74,7 +75,7 @@ footer {
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #efefef;
+    background-color: #c6c6c6;
 }
 
 #left-container {
@@ -96,13 +97,15 @@ html, body {
 }
 
 #main {
-    height: 100%;
-    margin: 0px;
+    margin: auto;
     padding: 0px;
 }
 
 
 #main-content {
-    margin: 0px;
     padding: 16px;
+    width: 33em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #efefef;
 }
