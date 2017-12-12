@@ -109,3 +109,7 @@ html, body {
     margin-right: auto;
     background-color: #efefef;
 }
+
+img {
+    width: 33em;
+}
